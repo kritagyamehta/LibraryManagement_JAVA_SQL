@@ -8,6 +8,7 @@ This system can be used by public libraries or institutions for better managemen
 * Add/Delete books
 * Add/Delete students
 * Issue/Return books
+* Statistics 
 * Forget Paswword 
 * Help/About Us
 
