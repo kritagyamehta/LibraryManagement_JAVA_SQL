@@ -11,4 +11,11 @@ This system can be used by public libraries or institutions for better managemen
 * Statistics 
 * Forget Paswword 
 * Help/About Us
+# Prerequisites
+* IDE
+* My SQL Server
+* My SQL Connector
+# Software Used
+* IntelliJ
+* My SQL Workbench
 
